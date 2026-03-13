@@ -2,3 +2,4 @@ Hola Mirtha!
 Hola Moria!
 ¿Estas en tu casa?
 [ "dialogoNPC-SI" , "dialogoNPC-NO" ]
+
